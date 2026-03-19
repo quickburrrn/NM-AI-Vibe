@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="assets/banner.png" alt="NM-AI-Vibe Banner" width="800">
 
@@ -77,3 +78,7 @@ We welcome any and all contributions! Whether it's adding a new "vibe," fixing a
   <br>
   <i>"Don't just code. Vibe."</i>
 </div>
+=======
+# Ai NM
+## Vibecoders to the top
+>>>>>>> 3603bee8804cd8f94b1f163ca8e1d14b6f177924
