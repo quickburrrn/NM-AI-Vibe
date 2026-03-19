@@ -1,0 +1,14 @@
+# Standard Gitignore
+node_modules/
+.DS_Store
+*.log
+dist/
+build/
+.env
+
+# AI Agent Specifics
+.gemini/
+.agent/
+.agents/
+.mcp/
+tmp/
